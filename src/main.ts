@@ -1,6 +1,8 @@
 import './style.css';
-import './bases/03-object-literal'
-
+// import './bases/03-object-literal';
+// import './bases/04-arrays';
+// import './bases/05-funciones';
+import './bases/06-obj-destructuring';
 
 
 
