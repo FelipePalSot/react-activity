@@ -4,8 +4,10 @@ import './style.css';
 // import './bases/05-funciones';
 // import './bases/06-obj-destructuring';
 // import './bases/07-array-destructuring';
-import './bases/08-imp-exp';
-import {getHeroesByOwner} from './bases/08-imp-exp';
+// import './bases/08-imp-exp';
+// import './bases/09-promises';
+import './bases/10-fetch-api';
+// import {getHeroesByOwner} from './bases/08-imp-exp';
 
 
 
@@ -16,6 +18,6 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 `;
 
 //En el main.ts usaran la funcion
-console.log(getHeroesByOwner('DC'));
+// console.log(getHeroesByOwner('DC'));
 
 
